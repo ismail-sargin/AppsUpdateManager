@@ -1,0 +1,13 @@
+{
+  "Apps": [
+    {
+      "Name": "Anex"
+    },
+    {
+      "Name": "InTourist"
+    }
+  ],
+  "Status": "Ready",
+  "AppsVersion": "2.1.23.122",
+  "LauncherVersion": "1.0.0.0"
+}
